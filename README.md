@@ -23,4 +23,4 @@ The Indiabulls Blu project is a visually engaging website developed to showcase 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/vinoditprobs/Indiabulls-BLU.git>
